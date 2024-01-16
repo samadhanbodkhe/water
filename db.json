@@ -1,0 +1,74 @@
+{
+  "customers": [
+    {
+      "fname": "john",
+      "address": "fake addess",
+      "mobile": "9898989898",
+      "id": 1
+    },
+    {
+      "fname": "kate",
+      "address": "new address",
+      "mobile": "4545454545",
+      "id": 2
+    },
+    {
+      "fname": "ross",
+      "address": "new street",
+      "mobile": "122123123",
+      "id": 3
+    },
+    {
+      "fname": "saurabh",
+      "address": "dongargoan",
+      "mobile": "994384934",
+      "id": 4
+    },
+    {
+      "fname": "sandip bhople",
+      "address": "dongargoan",
+      "mobile": "95494944",
+      "id": 5
+    }
+  ],
+  "orders": [
+    {
+      "jars": "7",
+      "date": "2023-09-17",
+      "userId": 3,
+      "id": 5
+    },
+    {
+      "jars": "2",
+      "date": "2023-09-09",
+      "userId": 2,
+      "id": 6
+    },
+    {
+      "jars": "5",
+      "date": "2023-08-21",
+      "userId": 1,
+      "id": 7
+    },
+    {
+      "jars": "10",
+      "date": "2023-09-30",
+      "userId": 4,
+      "id": 8
+    },
+    {
+      "jars": "50",
+      "date": "2023-09-30",
+      "userId": 5,
+      "id": 9
+    }
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": 123
+    }
+  ]
+}
